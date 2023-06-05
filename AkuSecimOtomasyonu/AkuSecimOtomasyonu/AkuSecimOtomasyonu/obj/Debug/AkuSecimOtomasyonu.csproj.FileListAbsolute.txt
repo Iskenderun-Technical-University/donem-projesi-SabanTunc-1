@@ -1,0 +1,12 @@
+C:\Users\saban\OneDrive\Masaüstü\AkuSecimOtomasyonu\AkuSecimOtomasyonu\AkuSecimOtomasyonu\bin\Debug\AkuSecimOtomasyonu.exe.config
+C:\Users\saban\OneDrive\Masaüstü\AkuSecimOtomasyonu\AkuSecimOtomasyonu\AkuSecimOtomasyonu\bin\Debug\AkuSecimOtomasyonu.exe
+C:\Users\saban\OneDrive\Masaüstü\AkuSecimOtomasyonu\AkuSecimOtomasyonu\AkuSecimOtomasyonu\bin\Debug\AkuSecimOtomasyonu.pdb
+C:\Users\saban\OneDrive\Masaüstü\AkuSecimOtomasyonu\AkuSecimOtomasyonu\AkuSecimOtomasyonu\obj\Debug\AkuSecimOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\saban\OneDrive\Masaüstü\AkuSecimOtomasyonu\AkuSecimOtomasyonu\AkuSecimOtomasyonu\obj\Debug\AkuSecimOtomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\saban\OneDrive\Masaüstü\AkuSecimOtomasyonu\AkuSecimOtomasyonu\AkuSecimOtomasyonu\obj\Debug\AkuSecimOtomasyonu.Form1.resources
+C:\Users\saban\OneDrive\Masaüstü\AkuSecimOtomasyonu\AkuSecimOtomasyonu\AkuSecimOtomasyonu\obj\Debug\AkuSecimOtomasyonu.Properties.Resources.resources
+C:\Users\saban\OneDrive\Masaüstü\AkuSecimOtomasyonu\AkuSecimOtomasyonu\AkuSecimOtomasyonu\obj\Debug\AkuSecimOtomasyonu.csproj.GenerateResource.cache
+C:\Users\saban\OneDrive\Masaüstü\AkuSecimOtomasyonu\AkuSecimOtomasyonu\AkuSecimOtomasyonu\obj\Debug\AkuSecimOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\saban\OneDrive\Masaüstü\AkuSecimOtomasyonu\AkuSecimOtomasyonu\AkuSecimOtomasyonu\obj\Debug\AkuSecimOtomasyonu.exe
+C:\Users\saban\OneDrive\Masaüstü\AkuSecimOtomasyonu\AkuSecimOtomasyonu\AkuSecimOtomasyonu\obj\Debug\AkuSecimOtomasyonu.pdb
+C:\Users\saban\OneDrive\Masaüstü\AkuSecimOtomasyonu\AkuSecimOtomasyonu\AkuSecimOtomasyonu\obj\Debug\AkuSecimOtomasyonu.Form2.resources
